@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, world 🌍
 
-<!--
-**dbraun5191/dbraun5191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **dbraun5191**, a code janitor.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 Exploring new technologies
+- ⚡ Fun fact: I write code while drinking coffee
+- 🌱 Always learning new things
+- 📫 Reach me through GitHub
+
+## Tech
+
+`Protobuf` `Bun` `Deno`
+
+---
+
+_Scripting > clicking._
